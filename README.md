@@ -1,4 +1,4 @@
-## main.py
+## data.py
 
 1. Built a spark session
 ```
@@ -43,7 +43,7 @@ def create_csv(data):
 Using create_csv() function, created a csv file from the incoming data from the api
 
 
-## api.py
+## restful_api.py
 
 ```
 def createdataframefromcsv():
